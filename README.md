@@ -7,4 +7,4 @@ The scores are like below:
 - final 80%
 - usual 20%
 
-At the same time, I want to learn how to use github.
+At the same time, I want to learn how to use github, and English?
