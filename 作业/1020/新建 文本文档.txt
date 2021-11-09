@@ -1,0 +1,3 @@
+Table[(n + 1)*{Cos[59 \[Degree]*n], Sin[59 \[Degree]*n]}, {n, 0, 
+    359}] // N;
+Table[Total[%[[1 ;; n]]], {n, Length@%}] // ListLinePlot
