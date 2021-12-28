@@ -1,0 +1,10 @@
+order_id,quantity,item_name,item_price
+1,1, Chips and Fresh Tomato Salsa,$2.39
+1,1, Izze,$3.39
+1,1, Nantucket Nectar,$3.39
+1,1, Chips and Tomatillo-Green Chili Salsa,$2.39
+2,2, Chicken Bowl,$16.98
+3,1, Chicken Bowl,$10.98
+3,1, Side of Chips,$1.69
+4,1, Steak Burrito,$11.75
+4,1, Steak Soft Tacos,$9.25
